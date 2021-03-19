@@ -1,4 +1,4 @@
-FROM csavar.jfrog.io/https://github.com/csavar/jfrog-docker-repo-simple-example/alpine:3.11.5
+FROM csavar.jfrog.io/docker/alpine:3.11.5
 
 CMD printf "\nCONGRATULATIONS!!!\n\nYou have just set up your first Docker repository with the new JFrog Platform!\n\n"
 
